@@ -1,5 +1,0 @@
-#include <iostrem>
-
-int main() {
-
-}

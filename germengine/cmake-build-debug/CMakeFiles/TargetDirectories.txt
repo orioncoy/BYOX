@@ -1,3 +1,0 @@
-/Users/calvin/Documents/GitHub/BYOX/germengine/cmake-build-debug/CMakeFiles/germengine.dir
-/Users/calvin/Documents/GitHub/BYOX/germengine/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/calvin/Documents/GitHub/BYOX/germengine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
