@@ -1,6 +1,6 @@
 /*
 
-RTIOW: RayTracing in One Weekend per https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview
+RTIOW: Ray Tracing in One Weekend per https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview
 
  */
 
