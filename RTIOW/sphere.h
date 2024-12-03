@@ -12,7 +12,7 @@ public:
         vec3 oc = center - r.origin();
         auto a = r.direction().length_squared();
         auto h = dot(r.direction(), oc);
-        auto c = oc.length_squared() - radius*radius;
+        auto c = oc.length_squared() - radius * radius;
 
         auto discriminant = h*h - a*c;
         if (discriminant < 0)
@@ -33,7 +33,7 @@ public:
         rec.normal = (rec.p - center) / radius;
         vec3 outward_normal = (rec.p - center) / radius;
         rec.set_face_normal(r, outward_normal);
-        
+
         return true;
     }
 
